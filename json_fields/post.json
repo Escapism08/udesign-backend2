@@ -1,0 +1,19 @@
+[
+    {
+        "field": "name:text",
+        "type": "text",
+        "validations": "required"
+    },
+    {
+        "field": "body:text",
+        "type": "textarea",
+        "validations": "required"
+    },
+    {
+        "field": "image:text",
+        "type": "textarea",
+        "validations": "required"
+    }
+
+    
+]
